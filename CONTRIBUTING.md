@@ -5,6 +5,7 @@ Reduce to the minimum 3rd party dependencies.
 
 Please note we have a [code of conduct](#Code of Conduct), please follow it in all your interactions with the project.
 
+
 ## Pull Request Process
 
 When doing a PR to v2 remember that you also have to do the PR port to v3, or tests confirming the bug is not reproducible.
